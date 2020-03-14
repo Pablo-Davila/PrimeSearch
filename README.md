@@ -6,3 +6,6 @@
  with primes was actually quite interesting.
  
  I may improve this tool in the future.
+
+## Preview
+![](images/Prime_99999.png)
